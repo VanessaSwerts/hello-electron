@@ -1,9 +1,7 @@
 
 <p align="center"> 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VanessaSwerts/hello-electron?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VanessaSwerts/hello-electron">
-  
+ 
   <a href="https://github.com/VanessaSwerts/hello-electron/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/hello-electron">
   </a>
